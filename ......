@@ -694,7 +694,7 @@ AmbientShadow_2.ImageTransparency = 0.500
 AmbientShadow_2.ScaleType = Enum.ScaleType.Slice
 AmbientShadow_2.SliceCenter = Rect.new(10, 10, 118, 118)
 
-local Window = AbyssLibrary.new("Roblox X Internal Script", "v2.0.0", nil)
+local Window = AbyssLibrary.new("Zyzzcs Scripts dsc.gg/WH2RqdgHTw", "v2.0.0", nil)
 
 local CombatTab = Window.Tab("Combat")
 local TargetFolder = CombatTab.Folder("Target Settings", "Configuration Of Target To Make User Easier To Use.")
